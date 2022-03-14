@@ -98,6 +98,12 @@ a{
     padding-left: 10px;
 }
 
+ul.no-bullets {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
 /* media queres */
 @media(max-width:780px){
     .grid-2{
